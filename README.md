@@ -2,6 +2,7 @@
 
 <!--
 **viniciusvidal2/viniciusvidal2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 [![LinkedIn Badge](https://img.shields.io/badge/-ViniciusVidal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vinicius-vidal-2a6834b1/)](https://www.linkedin.com/in/vinicius-vidal-2a6834b1/)
 [![Gmail Badge](https://img.shields.io/badge/-vinicius.vidal@engenharia.ufjf.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius.vidal@engenharia.ufjf.br)](mailto:vinicius.vidal@engenharia.ufjf.br)
