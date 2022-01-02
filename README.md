@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on Robotics developments
 - 🌱 I'm pursuing a Ph.D in Electrical Engineering.
-- ⚡ Interests of mine: SLAM, Computer Vision, Point Cloud improvements, LOAM, UAVs, Thermal Inspection
+- ⚡ Interests of mine: SLAM, Computer Vision, Point Cloud processing, Lidar odometry and mapping, UAVs, Thermal Inspection
 
 <!-- ### Connect with me:
 
@@ -24,6 +24,8 @@
 ### 📺 Some Projects I've worked on YouTube 
 
 <!-- YOUTUBE:START -->
+- [Rail tunnel inspection using solid state lidar for odometry and mapping.](https://www.youtube.com/watch?v=pl-wvFKQpc4)
+- [CAP 3D Robotic Scanner for environment virtualization.](https://www.youtube.com/watch?v=ih2824om6oI)
 - [AERO4River - Autonomous Surface Vessel for water inspection.](https://youtu.be/k-qC-Ms_5H4?list=PLxg9pywnxQpUn4iu7AmneZ1QmxKdCABWT)
 - [Visual and Thermal Inspection of Transmission Lines and Concession Areas](https://www.youtube.com/watch?v=jHhmqaPVnIc)
 - [Vertical Take-off and Landing (VTOL) Aircraft Project](https://www.youtube.com/watch?v=Ytr9HvbpxvU&t=250s)
